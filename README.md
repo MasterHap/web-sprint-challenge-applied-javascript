@@ -17,6 +17,7 @@ You are not allowed to collaborate during the sprint challenge.
 
 ## Project Instructions
 
+
 ### Introduction
 
 You are going to create a Lambda Newspaper. Your job is going to be to create the components that make up the newspaper's home page.
